@@ -5,7 +5,8 @@ This refers to my personal experience and installation of Webtrees.
 
 ## One.com
 
-The good people at `One.com` have some odd ideas about disrupting standard - and following their own obscure rules.
+The good people at `One.com` have some odd ideas about disrupting best practice
+<!-- standards --> - and following their own obscure rules.
 
 One of these is to let SSL / HTTPS use port 80 for communication - same as unencryptet HTTP. 
 This breaks any application that - by default - whould use port 443 for HTTPS
