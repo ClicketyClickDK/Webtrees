@@ -13,7 +13,7 @@ This breaks any application that - by default - whould use port 443 for HTTPS
 > HTTPS URLs begin with "https://" and use port 443 by default,
 <br>[Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
 
-My hack for [SSL / HTTPS on One.com](SSL-HTTPS-One.com) is pretty simple - once you know how 
+My hack for [SSL / HTTPS on One.com](SSL-HTTPS-One-com.md) is pretty simple - once you know how 
 
 ## General hacks
 
@@ -21,5 +21,5 @@ My hack for [SSL / HTTPS on One.com](SSL-HTTPS-One.com) is pretty simple - once 
 
 ## Variations - in danish
 
-- Handling [Danish months convertion to GEDCOM](Danish-months-to-GEDCOM)
+- Handling [Danish months convertion to GEDCOM](Danish-months-to-GEDCOM.md)
 
