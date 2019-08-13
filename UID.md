@@ -31,4 +31,3 @@ And expanded `function findRin($rin)` with:
 		}
 //EBP <<<
 ```
-
